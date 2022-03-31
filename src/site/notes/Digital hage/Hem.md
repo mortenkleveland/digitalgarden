@@ -2,4 +2,11 @@
 {"dg-publish":true,"permalink":"/digital-hage/hem/","tags":"gardenEntry"}
 ---
 # Non-analogue garden
-Hei!
+
+Tabell, da vettu
+
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   [[Digital hage/Noe interessant|Noe interessant]] |
+| col 3 is | right-aligned |    $1 |
