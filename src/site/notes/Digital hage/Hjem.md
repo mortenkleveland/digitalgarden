@@ -1,8 +1,4 @@
-
 ---
-dg-home: true
-dg-publish: true
+{"dg-publish":true,"permalink":"/digital-hage/hjem/"}
 ---
-
-# Halla
-En [link](obsidian://open?vault=Mortens%20Vault&file=Digital%20hage%2FNoe%20interessant)? 
+# Non-analogue garden
